@@ -14,10 +14,10 @@ We are working on documentation that will soon be made available here.
 ###
 To install just use these commands in the Linux terminal
 
-    ./configure
-    make
-    make install
+    cd Desktop
+    git clone https://github.com/usuario/repositorio
     
+
 <h2 align="left">Running</h2>
 
 ###
@@ -33,5 +33,6 @@ you need to know a few things before running idoom , first you need to have a ta
 After you have collected a target url, you need to prepare this url and separate which parameter you will use, like this:
 
         https://example/files.php?&r=27627324326356306&cd=5057
+        
         &cd2=
 Remember, this script is a brute force, if this were a real case, the brute force would be applied to the parameter &cd2= , you can use whatever parameter you want from the URL, as long as it doesn't change the query logic!
