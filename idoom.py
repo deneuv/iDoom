@@ -15,7 +15,7 @@ print(colored(" ╚═╝╚═════╝  ╚═════╝  ╚══
 print(colored("\n ... . .. ... . .. ... .. .. ... . .. . . .... ... ... ... ... .. . . .. .. .. .\n", "blue"))
 proton_mail = (colored("deneuv888399281a1871920312@proton.me", "red"))
 info_message = (colored(f"( This is the beta version of iDOOM If you get any \nBug, contact us on {proton_mail} )", "white"))
-print(colored(" m a d e   i n    c y b 3 r i a\n", "magenta"))
+print(colored(" . ... .... ... .. .. ..  m a d e   i n    c y b 3 r i a .. .. . . .... . .... ..\n", "magenta"))
 print(colored(f"[Info] {info_message}", "yellow"))
 
 print(" ")
